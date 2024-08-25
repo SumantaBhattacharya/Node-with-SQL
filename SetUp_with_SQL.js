@@ -6,7 +6,7 @@ const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
   database: 'delta_app',
-  password: 'CJnm@#9501'
+  password: 'JCNM9501'
 });
 
 let createRandomUser = () => {
@@ -31,8 +31,8 @@ for (let i = 0; i < 100; i++) {
 let query= "SHOW TABLES";// ? is placeholder
 let q = "INSERT IGNORE INTO user(userId,username,email,password) VALUES ? ";// (?, ?, ?, ?)
 let users =[
-  ["180","Sumanta Bhattacharya", "sumanta2004@gmail.com","JC#@8133"],
-  ["781","Sudip Bhattacharya", "sudbha98@gmail.com","JC#@8133"]
+  ["180","Sumanta Bhattacharya", "sumanta2004@gmail.com","CJnm@#9501"],
+  ["781","Sudip Bhattacharya", "sudbha98@gmail.com","CJnm@#9501"]
 ]
 
 try {
