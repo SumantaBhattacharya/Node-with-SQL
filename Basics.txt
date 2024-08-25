@@ -1,0 +1,680 @@
+
+
+ * SQL V/S NoSQL
+ * SQL
+ * Relational Database(data stored in Tables)
+ * eg- MySQL, Oracle, PostgreSQL etc. 
+ * 
+ * NoSQL
+ * Non Relational Database
+ * (data stored in document/key - val/graphs etc.)
+ * eg- MongoDB, Cassandra,Neo4j etc.
+ * 
+ * MEAN
+ * MYSQL EXPRESSJS ANGULAR NODE
+ * 
+ * sql(structed queey language)
+ * SQL is a programming language used to interact with relational database
+ * 
+ *
+
+ * Our 1st Database: SQL
+ * SQL is not a database it is a language to manupulate database
+ * Relational database
+ * What is a Database
+ * It is a collection of data in a format that can be easily accessed
+ * why database?
+ * can store large data
+ * features like security,scalability etc
+ * Easier to insert, update or delete data
+ * 
+ * Data Types
+ * DATATYPE   DESCRIPTION USAGE 
+ * 
+ * CHAR       string(0-255), can store characters of fixed length CHAR(50)
+ * VARCHAR    string(0-255), can store characters up to given length VARCHAR(50)
+ * BLOB       string(0-65535), can store binary large objects BLOB(1000)
+ * INT        integer(-2,147,483,648 to 2,147,483,647) INT
+ * TINYINT    integer(-128 to 127) TINYINT
+ * BIGINT     integer(-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807) BIGINT
+ * BIT        stores bit-field values (0 or 1) BIT(1)
+ * FLOAT      floating-point number (approximate) FLOAT
+ * DOUBLE     double-precision floating-point number (approximate) DOUBLE
+ * BOOLEAN    stores TRUE or FALSE values BOOLEAN
+ * DATE       stores date values (YYYY-MM-DD) DATE
+ * YEAR       stores year values (1901 to 2155 or 0000 to 99) YEAR
+ 
+
+
+ * Constraint
+ * Rules for data in the table
+ * 
+ * NOT NULL colums cannot have a null value
+ * UNIQUE all values in colum are different
+ * DEFAULT sets the default value of a column
+ * CHECK it can limit the values allowed in a column
+ * 
+ 
+
+
+ * KEY CONTRAINTS
+ * PRIMARY KEY makes a column unique and not null but only used for one
+ * CREATE TABLE temp(
+ * id int not null
+ * PRIMARY KEY (ID)
+ * );
+ * FOREIGN KEY prevent actions that would destroy links between tables
+ * CREATE TABLE temp(
+ * cust_id int,
+ * FOREIGN KEY (cust_id) references customer(id)
+ * );
+ 
+
+
+ * What are keys?
+ * Keys are special column th the table
+ * Primary Key
+ * It is a column (or set of columns) in a table that uniquely indentifies each row.(a unique id) 
+ * There is only 1 PK & it should be NOT null.
+ * can be only one
+ * Foreign Key
+ * A foreign key is a column (or set of columns) in a table that refers to the primary key in another table
+ * Foreign keys can have duplicates and null values
+ * There can be multiple Foreign keys
+ 
+
+
+ * Select Command
+ * Selects and show data from the DB
+ * syntax
+ * SELECT col1,col2 FROM table_name;
+ * Syntax(to show all)
+ * SELECT * FROM table_name;
+ 
+
+
+ * Where Clause
+ * to define some conditions
+ * SELECT col1,col2 FROM table_name
+ * WHERE conditions;
+ 
+
+
+ * Where Clause
+ * Operators
+ * Arithmetic Operators: +(addition), -(subtraction), *(multiplication), /division, %(modules)
+ * Comparison Operators: =(equal to), !(not equal to), >,< ,>=,,<=
+ * Logical Operators: AND,OR,NOT,IN(matches in value of the list),BETWEEN(selects for a given range),ALL,LIKE,ANY
+ * Bitwise Operators: &(Bitwise AND), | (Bitwise OR)
+ * (0 or 1) are current signals
+ * 
+ 
+
+
+ * Order by Clause
+ * To sort in ascending(ASC) or decending order(DESC)
+ * SELECT col1,col2 FROM table_name ORDER BY colname(s) ASC;
+ * 
+ 
+
+
+ * Aggregate Functions
+ * Aggregate functions perform a calculation on a set of values, and return a single value
+ * COUNT()
+ * MAX()
+ * MIN()
+ * SUM()
+ * AVG()
+ * 
+ * Example:
+ * SELECT max(marks) FROM student;
+ * 
+ 
+
+
+ * Group by clause
+ * Groups rows that have the same values into summary rows
+ * It collects data from multiple records and groups the result by one or more column.
+ * 
+ * SELECT col1,col2
+ * FROM table_name
+ * GROUP BY col_name(s);
+ * 
+ * *Generally we use group by with some aggregation function
+ * 
+ 
+
+
+ * Having Clause
+ * Similer to where i.e applies some condition on rows.
+ * But It is used when we want to apply any condition after grouping
+ * 
+ * SELECT col1,col2
+ * FROM table_name
+ * GROUP BY col_name(s)
+ * Having condition;
+ * 
+ * WHERE is for the table, HAVING is for a group
+ * Grouping is neccessary for HAVING
+ * 
+ 
+
+
+ * General Order
+ * SELECT column(s)
+ * FROM table_name
+ * WHERE condition
+ * GROUP BY column(s)
+ * HAVING condition
+ * ORDER BY column(s) ASC
+ 
+
+ * Table Queries
+ * Update(to update existing rows)
+ * UPDATE table_name
+ * SET col1 = val1,col2 =val2
+ * WHERE condition;
+ 
+
+
+ * Table Queries
+ * Delete(to delete an existing rows)
+ * DELETE FROM table_name
+ * WHERE condition;
+ 
+
+
+ * Table Queries
+ * Alter(to change the Scema)
+ * 
+ * Alter(to change the schema)
+ * ADD column
+ * ALTER TABLE table_name
+ * ADD COLUMN column_name datatype constraint;
+ * 
+ * DROP Column ALTER TABLE table_name DROP COLUMN column_name;
+ * 
+ * RENAME Table
+ * ALTER TABLE table_name
+ * RENAME TO new_table_name;
+ 
+
+
+ * Table Queries
+ * Alter(to chnage the schema)
+ * 
+ * CHANGE Column(rename)
+ * ALTER TABLE table_name
+ * CHANGE COLUMN old_name new_name new_datatype new_constraint;
+ * 
+ * MODIFY column(modify datatype/contraint)
+ * ALTER TABLE table_name MODIFY col_name new_datatype new_constraint;
+ * 
+ * Truncate(to delete table's data)
+ * TRUNCATE TABLE table_name;
+ * 
+ * Joins in SQL
+ * join is used to combine rows from two or more tables,based on a related column between them.
+ * Join operation can be performed on foreign key
+ * 
+ * Types of join(Venn Diagram)
+ * inner join- common column
+ * Returns records that have matching values in both tables
+ * 
+ * Syntax
+ * SELECT column(s)
+ * FROM tableA
+ * INNER JOIN tableB
+ * ON tableA.col_name = tableB.col_name;
+ * 
+ * (A)(B)->((color))
+ * eg
+ * employee table
+ * _______________
+ * | id    | name|
+ * ---------------
+ * | 101   | RAY |
+ * | 102   | DON |
+ * |_____________|
+ * 
+ * salary table
+ * _______________
+ * | id    | name|
+ * ---------------
+ * | 102   | DON |    
+ * | 103   | SON |
+ * |_____________|
+ * 
+ * 102 RAY
+ * 
+ * outer join:-
+ * left join 
+ * Returns all records from the left table, and the matched records from
+ * the right side
+ * 
+ * Syntax
+ * SELECT column(s) FROM tableA LEFT JOIN tableB on tableA.col_name = tableB.col_name;
+ * (A)(B)->(color(color))
+ * 
+ *  * employee table
+ * _______________
+ * | id    | name|
+ * ---------------
+ * | 101   | RAY |
+ * | 102   | DON |
+ * |_____________|
+ * 
+ * salary table
+ * _______________
+ * | id    | name|
+ * ---------------
+ * | 102   | DON |    
+ * | 103   | SON |
+ * |_____________|
+ * 
+ * 101 RAY
+ * 102 DON
+ * 
+ * Right join
+ * Returns all records from the right table, and the matched records from the left table
+ * (A)(B)->((color)color)
+ * 
+ * employee table
+ * _______________
+ * | id    | name|
+ * ---------------
+ * | 101   | RAY |
+ * | 102   | DON |
+ * |_____________|
+ * 
+ * salary table
+ * _______________
+ * | id    | name|
+ * ---------------
+ * | 102   | RAY |    
+ * | 103   | SON |
+ * |_____________|
+ * 
+ * 102 RAY
+ * 103 SON
+ * 
+ * full join
+ * Returns all record when there is a match in either left or right table
+ * 
+ * Syntax in MySQL
+ * SELECT * FROM student
+ * LEFT JOIN course
+ * ON a.id = b.id 
+ * UNION SELECT * FROM student
+ * RIGHT JOIN course ON a.id = b.id
+ * 
+ * (A)(B)->(color(color)color)
+ * 
+ * employee table
+ * _______________
+ * | id    | name|
+ * ---------------
+ * | 101   | RAY |
+ * | 102   | DON |
+ * |_____________|
+ * 
+ * salary table
+ * _______________
+ * | id    | name|
+ * ---------------
+ * | 102   | RAY |    
+ * | 103   | SON |
+ * |_____________|
+ * 
+ * 101 RAY
+ * 102 DON
+ * 103 SON
+ * 
+ * Left Exclusive Join
+ * (A)(B)->(color())
+ * 
+ * Right Exclusive Join
+ * (A)(B)->(()color)
+ * 
+ * Full Exclusive join
+ * ()()->(color()color)
+ * 
+ * Self Join
+ * It is a regular join(inner join) but the table is joined with itself
+ * 
+ * Example 
+ * 
+ * Employe table
+ * ----------------------------
+ * | id  | name  | manager_id |
+ * |--------------------------|
+ * | 101 | adam  | 103        |
+ * | 102 | bob   | 104        |
+ * | 103 | casey | null       |
+ * | 104 | donad | 103        |
+ * ----------------------------
+ * 
+ * casey➡donald➡bob
+ *  ⬇↪bob
+ * SELECT a.name as manger_name, b.name FROM employee as a JOIN employee as b ON a.id = b.manager_id;
+ * 
+ * Union
+ * It is ised to combine the result-set of two or more SELECT statements
+ * Gives UNIQUE records
+ * 
+ * To use it:
+ * every select should have same number of columns
+ * column must have similer datatypes
+ * columns in every select should be in same order
+ * 
+ * Syntax 
+ * SELECT column(s) FROM tableA
+ * UNION 
+ * SELCT column(s) FROM tableB
+ * 
+ * SQL Sub Queries
+ * A Subquery or inner query or a Nested query is a query witin another SQL query.
+ * It involves 2 select statements
+ * 
+ * Syntax
+ * SELCT column(s)
+ * FROM table_name
+ * WHERE col_name operator
+ * (subquery);
+ * 
+ * 1) SELECT
+ * 2) FROM
+ * 3) WHERE
+ * 
+ * SQL Sub Queries
+ * Example 
+ * Get names of all students who scored more than class average
+ * Step1. Find the avg of class
+ * SELCT AVG(marks) from user
+ * Step2. Find the names of students with marks>avg
+ * select name,marks from user where marks > (SELCT AVG(marks) from user) ;
+ * 
+ * Find the names of all students with even roll number
+ * select followers from user where followers %2 = 0;
+ * select name  from user where followers IN (select  followers from user where followers %2 = 0);
+ * 
+ * Example with FROM
+ * Find the max marks from the students of Delhi
+ * Step1. Fiund the students of Delhi
+ * Step2 Find their max marks using the sublist in step1
+ * 
+ * 
+ * Student
+ * ___________________________________
+ * | rollno | name           | marks |
+ * -----------------------------------
+ * | 101    | Anil Kumar     | 78    |
+ * | 102    | Bhumika Saha   | 93    |
+ * | 103    | Chetan Singh   | 85    |
+ * | 104    | Dhruv Rathi    | 96    |
+ * | 105    | sridavi Pandey | 92    |
+ * | 106    | Shradha Khapra | 82    |
+ * -----------------------------------
+ * 
+ * MySQL Views
+ * A view is a virtual table based on the result-set of an SQL statement.
+ * CREATE VIEW view1 AS SELECT rollno, name FROM student;
+ * SELECT * FROM view1;
+ * A view always shouws up-to-date data. The database engine recreates the view,evry time a user queries it.
+ * 
+ * CREATE DATABASE IF NOT EXISTS instagram;
+
+USE instagram;
+
+-- Create the user table
+CREATE TABLE IF NOT EXISTS user (
+    id INT PRIMARY KEY,
+    age INT,
+    country VARCHAR(10),
+    name VARCHAR(30) NOT NULL,
+    email VARCHAR(20) UNIQUE,
+    followers INT DEFAULT 0,
+    following INT,
+    CONSTRAINT age_check CHECK (age >= 13 AND country = 'INDIA')
+);
+
+-- Insert data into the user table
+INSERT IGNORE INTO user (id, age, country, name, email, followers, following)
+VALUES
+(1, 25, 'INDIA', 'Alice', 'alice@example.com', 100, 50),
+(2, 30, 'INDIA', 'Bob', 'bob@example.com', 150, 75),
+(3, 22, 'INDIA', 'Charlie', 'charlie@example.com', 200, 100),
+(4, 28, 'INDIA', 'David', 'david@example.com', 250, 125);
+
+INSERT INTO user (id, age, country, name, email, followers, following)
+VALUES
+(5, 22, 'INDIA', 'Arun Sighla', 'arun@example.com', 100, 50);
+
+
+ALTER TABLE user 
+ADD COLUMN city VARCHAR(25) DEFAULT "Kolkata";
+
+-- Create the post table
+CREATE TABLE post (
+    sponcerships VARCHAR(60),
+    content VARCHAR(100),
+    user_id INT,
+    FOREIGN KEY (user_id) REFERENCES user(id)
+);
+
+-- Insert data into the post table
+INSERT INTO post (sponcerships, content, user_id)
+VALUES
+('Lackme', 'This is Alice\'s first post!', 1),
+('Beardo', 'Bob\'s thoughts on life.', 2),
+('MamaEarth', 'Charlie\'s latest adventure.', 3),
+('Reebok', 'David\'s daily update.', 4),
+('Patanjali', 'Another post by Alice.', 1);
+
+
+SELECT * FROM user as u INNER JOIN post as p on u.id = p.user_id;
+SELECT * FROM user LEFT JOIN post on user.id = post.user_id;
+SELECT * FROM user RIGHT JOIN post on user.id = post.user_id;
+
+SELECT * FROM user LEFT JOIN post on user.id = post.user_id UNION SELECT * FROM user RIGHT JOIN post on user.id = post.user_id;
+
+SELECT DISTINCT user.id, user.age, user.country, user.name, user.email, user.followers, user.following, post.sponcerships, post.content, post.user_id
+FROM user
+LEFT JOIN post ON user.id = post.user_id
+UNION
+SELECT DISTINCT user.id, user.age, user.country, user.name, user.email, user.followers, user.following, post.sponcerships, post.content, post.user_id
+FROM user
+RIGHT JOIN post ON user.id = post.user_id;
+
+-- Select distinct user.id and join back to get full details
+SELECT user.id, user.age, user.country, user.name, user.email, user.followers, user.following, post.sponcerships, post.content, post.user_id
+FROM user
+LEFT JOIN post ON user.id = post.user_id
+WHERE user.id IN (
+    SELECT DISTINCT user.id
+    FROM user
+    LEFT JOIN post ON user.id = post.user_id
+    UNION
+    SELECT DISTINCT user.id
+    FROM user
+    RIGHT JOIN post ON user.id = post.user_id
+);
+
+-- left execlusive join
+SELECT * FROM user LEFT JOIN post on user.id = post.user_id 
+WHERE post.user_id IS NULL;
+
+-- Right execlusive join
+SELECT * FROM user RIGHT JOIN post on user.id = post.user_id 
+WHERE user.id IS NULL;
+
+-- Full exclusive join
+SELECT * FROM user JOIN post on user.id = post.user_id 
+WHERE user.id IS NULL;
+
+drop table post;
+drop table user;
+
+
+INSERT INTO user (id, age, country, name, email, subs, following)
+VALUES (5, 19, 'INDIA', 'Sumanta Bhattacharya', 'sumanta2004@gmail.com', 9000, 35);
+
+SELECT * FROM user WHERE followers >= 200 LIMIT 0, 1000;
+
+SELECT AVG(followers) from user;
+
+SELECT name,followers from user where followers > 160.0000;
+
+SELECT name,followers 
+from user
+where followers > (SELECT AVG(followers) from user);
+
+select followers from user where followers %2 = 0;
+select name  from user where followers IN (select  followers from user where followers %2 = 0);
+-- The IN clause expects a single column in the subquery
+
+-- Select names from users living in Kolkata
+SELECT * FROM user WHERE city = 'Kolkata';
+
+-- Select the user with the maximum number of followers who lives in Kolkata
+SELECT name, followers FROM user 
+WHERE city = 'Kolkata' 
+ORDER BY followers DESC 
+LIMIT 1;  -- This will give the user with the maximum followers
+
+Select max(followers)
+from (SELECT * FROM user WHERE city = 'Kolkata') AS temp;
+
+SELECT *
+FROM user
+WHERE city = 'Kolkata'
+AND followers = (SELECT MAX(followers) FROM user WHERE city = 'Kolkata');
+
+SELECT max(followers) FROM user 
+WHERE city = 'Kolkata' ;
+
+select (sELeCT MAX(followers) FROM user), name from user;
+
+SELECT * FROM user WHERE id = 5;
+
+
+SELECT id, age, country, name, email 
+FROM user 
+WHERE age BETWEEN 20 AND 30;
+
+SELECT id, age, email 
+FROM user 
+WHERE email NOT IN ('sumanta2004@gmail.com', 'sudbha98@gmail.com', 'david@example.com', 'bob@example.com', 'alice@example.com');
+
+SELECT age, COUNT(id) AS user_count
+FROM user
+GROUP BY age;
+
+SELECT age, COUNT(id) AS user_count, MIN(id) AS sample_id, MIN(name) AS sample_name
+FROM user
+GROUP BY age
+LIMIT 0, 1000;
+
+select * from  instagram.post;
+select * from  instagram.user;
+SHOW TABLES FROM instagram;
+DESCRIBE instagram.user;
+DESCRIBE user;
+SHOW CREATE TABLE user;
+
+Select age, max(followers) from user Group by age having max(followers) > 200 ORDER BY age DESC;
+
+UPDATE user 
+SET followers = 600
+WHERE followers >= 200;
+
+-- Disable safe updates mode
+SET SQL_SAFE_UPDATES = 0;
+
+-- Example update statement
+UPDATE user 
+SET followers = followers + 10 
+WHERE age >= 30;
+
+-- Re-enable safe updates mode for safety
+SET SQL_SAFE_UPDATES = 1;
+
+DELETE from user WHERE age<25;
+-- DELETE FROM user will delete all the data from the table
+
+
+ALTER TABLE user 
+DROP COLUMN city;
+
+ALTER TABLE user ADD COLUMN followers INT;
+
+
+ALTER TABLE instaUser
+RENAME TO user;
+select * from  instaUser ;
+
+alter table user
+CHANGE COLUMN followers subs INT DEFAULT 0;
+
+ALTER TABLE user
+MODIFY subs INT DEFAULT 00 ;
+
+ALTER TABLE user MODIFY COLUMN email VARCHAR(255);
+
+select * from user ;
+
+DROP TABLE post;
+-- delete the table
+TRUNCATE TABLE user; 
+-- delete the data
+
+Create TABLE employee(
+    id INT PRIMARY KEY,
+    name VARCHAR(50),
+    manager_id INT
+);
+
+INSERT INTO employee (id,name,manager_id)
+VALUES 
+(101,"Adam Smith",103),
+(102,"Bob the builder", 104),
+(103, "Surita Bhattacharya",Null),
+(104,"Donald" ,103);
+
+select * from employee;
+
+Select * 
+FROM employee as a
+JOIN employee as b
+ON a.id = b.manager_id;
+
+Select a.name, b.name
+FROM employee as a
+JOIN employee as b
+ON a.id = b.manager_id;
+
+
+Select a.name as manger_name, b.name
+FROM employee as a
+JOIN employee as b
+ON a.id = b.manager_id;
+
+SELECT name FROM employee
+UNION 
+SELECT name FROM employee;
+
+SELECT name FROM employee
+UNION ALL
+SELECT name FROM employee;
+
+SELECT * FROM user
+UNION ALL
+SELECT * FROM post;
+
+CREATE VIEW view1 AS
+SELECT id, age, country, name, email from user;
+
+SELECT * from view1;
+
+DROP VIEW view1;
+
