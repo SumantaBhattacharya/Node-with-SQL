@@ -14,9 +14,9 @@ const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
   database: 'delta_app',
-  password: 'CJnm@#9501'
+  password: 'JCMN@#8133'
 })
-
+// password: 'CJnm@#9501'
 let createRandomUser = () => {
   return [
     faker.datatype.uuid(),
