@@ -142,3 +142,211 @@ app.listen(port,()=>{// middlewere
 
 
 ```
+
+# File System vs DBMS | Disadvantages of File System | DBMS Advantages  
+
+
+**Topics Discussed:**  
+- Searching
+- Attributes
+- Concurrency
+- Security
+
+[![File System vs DBMS | Disadvantages of File System | DBMS Advantages](https://img.youtube.com/vi/ZtVw2iuFI2w/maxresdefault.jpg)](https://youtu.be/ZtVw2iuFI2w)
+
+# What is Schema | How to define Schema | Database Management System in Hindi  
+
+**Description:**  
+A database schema defines how data is organized within a relational database. This includes logical constraints such as table names, fields, data types, and the relationships between these entities.
+
+**Topics Discussed:**  
+- Schema in DB  
+- Logical representation  
+- Implementation of Schema
+
+[![What is Schema | How to define Schema | Database Management System in Hindi](https://img.youtube.com/vi/pDX4NR4eY3A/maxresdefault.jpg)](https://www.youtube.com/watch?v=pDX4NR4eY3A)
+
+# What is CANDIDATE KEY and PRIMARY key | Full Concept | Most Suitable Examples | DBMS  
+
+**Topics Discussed:**  
+- Introduction to Candidate Key  
+- Key  
+- Attribute  
+- Use of Key  
+- Candidate Key Set  
+- Primary Key  
+- Alternative Key  
+
+[![What is CANDIDATE KEY and PRIMARY key | Full Concept | Most Suitable Examples | DBMS](https://img.youtube.com/vi/mMxjKFiIKxs/maxresdefault.jpg)](https://youtu.be/mMxjKFiIKxs)
+
+# What is Primary Key in DBMS | Primary Key with Examples  
+
+[![What is Primary Key in DBMS | Primary Key with Examples](https://img.youtube.com/vi/Tp37HXfekNo/maxresdefault.jpg)](https://youtu.be/Tp37HXfekNo)
+
+# Foreign Key in DBMS | Full Concept with Examples  
+
+[![Foreign Key in DBMS | Full Concept with Examples](https://img.youtube.com/vi/UyqpQ3D2yCw/maxresdefault.jpg)](https://youtu.be/UyqpQ3D2yCw)
+
+# Introduction to ER Model | ER Model क्या है  
+
+[![Introduction to ER Model | ER Model क्या है](https://img.youtube.com/vi/gbVev8RuZLg/maxresdefault.jpg)](https://youtu.be/gbVev8RuZLg)
+
+# Types of Attributes in ER Model | Full Concept | DBMS in Hindi  
+
+**Topics Discussed:**  
+- Attribute  
+- Single vs Multivalued  
+- Simple vs Composite  
+- Stored vs Derived  
+- Key vs Non-Key  
+- Required vs Optional  
+
+[![Types of Attributes in ER Model](https://img.youtube.com/vi/WEo3g6Ir-vA/maxresdefault.jpg)](https://youtu.be/WEo3g6Ir-vA)
+
+# One to One Relationship in DBMS | DBMS in Hindi  
+
+**Topics Discussed:**  
+- Employee Table  
+- Department Table  
+- Relationship Table (Work Table)  
+- Primary Key in Work Table  
+- Reducing Number of Tables  
+
+[![One to One Relationship in DBMS](https://img.youtube.com/vi/s6MH7f3SnsY/maxresdefault.jpg)](https://youtu.be/s6MH7f3SnsY)
+
+# One to Many Relationship in DBMS | 1-M Relationship | DBMS in Hindi  
+
+**Topics Discussed:**  
+- 1-M (E-R Diagram)  
+- Relational Model (Tables)  
+- Relationship Table  
+- Primary Key  
+- Reducing Number of Tables  
+
+[![One to Many Relationship in DBMS](https://img.youtube.com/vi/rZxETdO_KUQ/maxresdefault.jpg)](https://youtu.be/rZxETdO_KUQ)
+
+# Many to Many Relationship in DBMS | M-N Relationship | DBMS in Hindi  
+
+**Topics Discussed:**  
+- Relational Model (Tables)  
+- Relationship Table  
+- Primary Key  
+- Reducing Number of Tables  
+
+[![Many to Many Relationship in DBMS](https://img.youtube.com/vi/onR_sLhbZ4w/maxresdefault.jpg)](https://youtu.be/onR_sLhbZ4w)
+
+# Introduction to Normalization | Insertion, Deletion & Updation Anomaly | DBMS in Hindi  
+
+**Topics Discussed:**  
+- Row-Level Duplicacy  
+- Column-Level Duplicacy  
+- Anomaly  
+- Insertion Anomaly  
+- Deletion Anomaly  
+- Updation Anomaly  
+- Normalization  
+
+[![Introduction to Normalization](https://img.youtube.com/vi/5GDTIUVlHB8/maxresdefault.jpg)](https://youtu.be/5GDTIUVlHB8)
+
+[![Lec-21: First Normal form in DBMS in HINDI | 1st Normal form क्या होती है ?](https://img.youtube.com/vi/NlgZy30Dv9A/maxresdefault.jpg)](https://youtu.be/NlgZy30Dv9A)
+
+[![Finding Closure of Functional Dependency in DBMS](https://img.youtube.com/vi/bSdvM_0hzgc/maxresdefault.jpg)](https://youtu.be/bSdvM_0hzgc)
+
+# Lec-23: Functional Dependency & Its Properties in DBMS in Hindi  
+
+**Topics Discussed:**  
+- Functional Dependency  
+- Trivial and Non-Trivial Functional Dependency  
+- Properties of Functional Dependency  
+
+[![Functional Dependency & Its Properties](https://img.youtube.com/vi/qn5neFBpU40/maxresdefault.jpg)](https://youtu.be/qn5neFBpU40)
+
+# Lec-24: Second Normal Form (2NF) | Database Management System  
+ 
+[![Second Normal Form (2NF)](https://img.youtube.com/vi/tkbAA--wKOc/maxresdefault.jpg)](https://youtu.be/tkbAA--wKOc)
+
+# Lec-25: Third Normal Form (3NF) in DBMS with Examples | Normalization   
+
+[![Third Normal Form (3NF)](https://img.youtube.com/vi/IeSai2JVm78/maxresdefault.jpg)](https://youtu.be/IeSai2JVm78)
+
+# Lec-26: Boyce-Codd Normal Form (BCNF) | DBMS | Normalization  
+
+[![Boyce-Codd Normal Form (BCNF)](https://img.youtube.com/vi/mf_PbWPo7VM/maxresdefault.jpg)](https://youtu.be/mf_PbWPo7VM)
+
+# Lec-27: BCNF Always Ensures Dependency Preserving Decomposition?? | Normalization Examples   
+
+[![BCNF and Dependency Preserving Decomposition](https://img.youtube.com/vi/qwI0oe3-g9g/maxresdefault.jpg)](https://youtu.be/qwI0oe3-g9g)
+
+# Lec-28: Lossless and Lossy Decomposition | Fifth (5th) Normal Form | Database Management System  
+
+[![Lossless and Lossy Decomposition | 5NF](https://img.youtube.com/vi/Sabwow_e2-M/maxresdefault.jpg)](https://youtu.be/Sabwow_e2-M)
+
+# Lec-29: All Normal Forms with Real-Life Examples | 1NF 2NF 3NF BCNF 4NF 5NF | All in One  
+
+**Topics Discussed:**  
+- First Normal Form (1NF)  
+- Second Normal Form (2NF)  
+- Third Normal Form (3NF)  
+- Boyce-Codd Normal Form (BCNF)  
+- Fourth Normal Form (4NF)  
+- Fifth Normal Form (5NF)  
+
+[![All Normal Forms with Real-Life Examples](https://img.youtube.com/vi/EGEwkad_llA/maxresdefault.jpg)](https://youtu.be/EGEwkad_llA)
+
+# Lec-31: Practice Question on Normalization | Database Management System  
+
+[![Practice Question on Normalization](https://img.youtube.com/vi/4h8VoRnRvnE/maxresdefault.jpg)](https://youtu.be/4h8VoRnRvnE)
+
+# Lec-32: How to Find Out the Normal Form of a Relation | DBMS  
+
+**Topics Discussed:**  
+- Checking 2nd Normal Form  
+- Decomposing Tables  
+- Checking 3rd Normal Form  
+- Checking BCNF  
+- Lossless Join  
+
+[![How to Find Out the Normal Form of a Relation](https://img.youtube.com/vi/wTJjpH2RUcQ/maxresdefault.jpg)](https://youtu.be/wTJjpH2RUcQ)
+
+# Lec-33: How to Solve Normalization Questions | DBMS  
+
+**Topics Discussed:**  
+- Schema 1  
+- Schema 2  
+- Schema 3  
+- Schema 4  
+
+[![How to Solve Normalization Questions](https://img.youtube.com/vi/1yUkun2r0N4/maxresdefault.jpg)](https://youtu.be/1yUkun2r0N4)
+
+# Lec-36: Dependency Preserving Decomposition in DBMS with Examples in Hindi | DBMS  
+
+**Topics Discussed:**  
+- Concept of Dependency Preservation  
+- Decomposition of Relation R  
+- Functional Dependencies in Decomposed Tables  
+- Ensuring Dependency Preservation  
+
+[![Dependency Preserving Decomposition](https://img.youtube.com/vi/0oeap0QDslY/maxresdefault.jpg)](https://youtu.be/0oeap0QDslY)
+
+# Lec-37: Dependency Preserving Decomposition in DBMS | Example 2 in Hindi  
+
+[![Dependency Preserving Decomposition Example 2](https://img.youtube.com/vi/jxENwUU9j7w/maxresdefault.jpg)](https://youtu.be/jxENwUU9j7w)
+
+# Lec-38: Introduction to Joins and Its Types | Need of Joins with Example | DBMS  
+
+[![Introduction to Joins](https://img.youtube.com/vi/zYH-e6tUYbw/maxresdefault.jpg)](https://youtu.be/zYH-e6tUYbw)
+
+# Lec-39: Natural Join Operation with Example | Database Management System  
+
+**Definition:**  
+A **NATURAL JOIN** is a JOIN operation that creates an implicit join clause for you based on the common columns in the two tables being joined.  
+
+[![Natural Join Operation](https://img.youtube.com/vi/jRxEjmjIIFs/maxresdefault.jpg)](https://youtu.be/jRxEjmjIIFs)
+
+# Lec-40: Self Join Operation with Example | Database Management System  
+
+**Definition:**  
+A **Self Join** is a join in which a table is joined with itself (also called a **Unary Relationship**), especially when the table has a **FOREIGN KEY** that references its own **PRIMARY KEY**. To join a table with itself means that each row of the table is combined with itself and with every other row of the table.  
+
+[![Self Join Operation](https://img.youtube.com/vi/6DQpvfdj6EE/maxresdefault.jpg)](https://youtu.be/6DQpvfdj6EE)
+
