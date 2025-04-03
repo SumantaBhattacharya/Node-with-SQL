@@ -376,3 +376,15 @@ This video covers the **Features of Distributed Database Systems** in DBMS, expl
 
 ### Topics Learned:  
 - Key Features and Characteristics  
+
+# Distributed Database | Architecture | Distributed Systems | Lecture 66 | Bhanu Priya  
+
+[![Distributed Database | Architecture | Distributed Systems | Lecture 66 | Bhanu Priya](https://img.youtube.com/vi/vuApQk27Jus/maxresdefault.jpg)](https://youtu.be/vuApQk27Jus?si=-4ahcDFrs-uf84xw)  
+
+[Distributed Database | Architecture | Distributed Systems | Lecture 66 | Bhanu Priya](https://youtu.be/vuApQk27Jus?si=-4ahcDFrs-uf84xw)
+
+This lecture covers the **Architecture of Distributed Databases** as part of the **Distributed Systems** course.
+
+### Topics Covered:  
+- Introduction to Distributed Database Architecture  
+- Types of Distributed Database Architectures  
