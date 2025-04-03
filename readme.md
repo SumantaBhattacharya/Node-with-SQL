@@ -350,3 +350,29 @@ A **Self Join** is a join in which a table is joined with itself (also called a 
 
 [![Self Join Operation](https://img.youtube.com/vi/6DQpvfdj6EE/maxresdefault.jpg)](https://youtu.be/6DQpvfdj6EE)
 
+# Distributed Database | Introduction | Distributed Systems | Lecture 64 | Bhanu Priya  
+
+[![Watch on YouTube](https://img.youtube.com/vi/QyR4TIbEJjo/maxresdefault.jpg)](https://youtu.be/QyR4TIbEJjo?si=vqAUWasKtD1smrNU)  
+
+This lecture provides an introduction to **Distributed Databases** as part of the **Distributed Systems** course. This session is by **Bhanu Priya**.  
+
+### Topics Covered:  
+- What is a Distributed Database?  
+
+# Distributed Database in DBMS | Learn Coding  
+
+[![Distributed Database in DBMS | Learn Coding](https://img.youtube.com/vi/iG2i5g5Cph8/maxresdefault.jpg)](https://youtu.be/iG2i5g5Cph8?si=va3_z9re2ZSjjoWW)  
+
+This video explains **Distributed Databases in DBMS**, covering their types and key concepts.
+### Topics Learned:  
+- Types of Distributed Databases  
+
+# DBMS - Features of Distributed Database System  
+
+[![DBMS - Features of Distributed Database System](https://img.youtube.com/vi/LlPDykVu1Fg/maxresdefault.jpg)](https://youtu.be/LlPDykVu1Fg?si=lioNBkJJN9ZqU2QT)  
+[DBMS - Features of Distributed Database System](https://youtu.be/LlPDykVu1Fg?si=lioNBkJJN9ZqU2QT)
+
+This video covers the **Features of Distributed Database Systems** in DBMS, explaining key characteristics.  
+
+### Topics Learned:  
+- Key Features and Characteristics  
