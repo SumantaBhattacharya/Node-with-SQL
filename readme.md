@@ -373,6 +373,16 @@ A **Self Join** is a join in which a table is joined with itself (also called a 
 - **Introduction to Table Creation in SQL**  
 - **Syntax of CREATE TABLE Statement**  
 
+# ALTER Command (DDL) in SQL with Implementation on Oracle.
+
+[![ALTER Command (DDL) in SQL with Implementation on Oracle](https://img.youtube.com/vi/NA3b8JRUmww/maxresdefault.jpg)](https://youtu.be/NA3b8JRUmww?si=KlMQBYsI0ER8Z8Ch)  
+
+### Topics Covered:  
+- **Introduction to ALTER Command**  
+- **Various Uses of ALTER (Add, Modify, Drop Columns, etc.)**  
+- **Live Execution in Oracle SQL Environment**  
+
+
 # Distributed Database | Introduction | Distributed Systems | Lecture 64 | Bhanu Priya  
 
 [![Watch on YouTube](https://img.youtube.com/vi/QyR4TIbEJjo/maxresdefault.jpg)](https://youtu.be/QyR4TIbEJjo?si=vqAUWasKtD1smrNU)  
