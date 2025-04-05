@@ -363,6 +363,16 @@ A **Self Join** is a join in which a table is joined with itself (also called a 
 - **TCL (Transaction Control Language) Commands**  
 - **SQL Constraints and Their Importance**  
 
+# Create Table in SQL with Execution | SQL for Beginners | Oracle LIVE (Lecture 54)  
+
+[![Watch on YouTube](https://img.youtube.com/vi/R6Ps7aUNPE4/maxresdefault.jpg)](https://youtu.be/R6Ps7aUNPE4?si=EH_BMYto573Wk-7z)  
+
+[Create Table in SQL with Execution | SQL for Beginners | Oracle LIVE (Lecture 54)](https://youtu.be/R6Ps7aUNPE4?si=EH_BMYto573Wk-7z)
+
+### Topics Covered:  
+- **Introduction to Table Creation in SQL**  
+- **Syntax of CREATE TABLE Statement**  
+
 # Distributed Database | Introduction | Distributed Systems | Lecture 64 | Bhanu Priya  
 
 [![Watch on YouTube](https://img.youtube.com/vi/QyR4TIbEJjo/maxresdefault.jpg)](https://youtu.be/QyR4TIbEJjo?si=vqAUWasKtD1smrNU)  
