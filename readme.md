@@ -350,6 +350,19 @@ A **Self Join** is a join in which a table is joined with itself (also called a 
 
 [![Self Join Operation](https://img.youtube.com/vi/6DQpvfdj6EE/maxresdefault.jpg)](https://youtu.be/6DQpvfdj6EE)
 
+# All Types of SQL Commands with Examples | DDL, DML, DCL, TCL, and Constraints | DBMS (Lecture 53)  
+
+[![Watch on YouTube](https://img.youtube.com/vi/vUj-kUEC_oA/maxresdefault.jpg)](https://youtu.be/vUj-kUEC_oA?si=zaoGISzatFxzw27K)  
+
+
+### Topics Covered:  
+- **SQL Commands Overview**  
+- **DDL (Data Definition Language) Commands**  
+- **DML (Data Manipulation Language) Commands**  
+- **DCL (Data Control Language) Commands**  
+- **TCL (Transaction Control Language) Commands**  
+- **SQL Constraints and Their Importance**  
+
 # Distributed Database | Introduction | Distributed Systems | Lecture 64 | Bhanu Priya  
 
 [![Watch on YouTube](https://img.youtube.com/vi/QyR4TIbEJjo/maxresdefault.jpg)](https://youtu.be/QyR4TIbEJjo?si=vqAUWasKtD1smrNU)  
