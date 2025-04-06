@@ -397,6 +397,23 @@ This lecture explains the **difference between ALTER and UPDATE commands in SQL*
 
 [![Lec-57: Difference between DELETE, DROP & TRUNCATE in SQL | DBMS](https://img.youtube.com/vi/_m1aJdD-oD8/maxresdefault.jpg)](https://youtu.be/_m1aJdD-oD8?si=rTC13O63Uo8yBxpe)  
 
+[Difference between DELETE, DROP & TRUNCATE in SQL | DBMS](https://youtu.be/_m1aJdD-oD8?si=rTC13O63Uo8yBxpe)
+
+# Lec-58: Constraints in SQL in Hindi | DBMS  
+
+[![Lec-58: Constraints in SQL in Hindi | DBMS](https://img.youtube.com/vi/PcMr6xoundk/maxresdefault.jpg)](https://youtu.be/PcMr6xoundk?si=keHr28a89GBMSebS)  
+
+This lecture covers various **constraints in SQL** in Hindi, ideal for DBMS beginners and intermediate learners.
+
+### Topics Covered:  
+- Introduction  
+- Unique  
+- Not Null  
+- Primary Key  
+- Check  
+- Foreign Key  
+- Default  
+
 # Distributed Database | Introduction | Distributed Systems | Lecture 64 | Bhanu Priya  
 
 [![Watch on YouTube](https://img.youtube.com/vi/QyR4TIbEJjo/maxresdefault.jpg)](https://youtu.be/QyR4TIbEJjo?si=vqAUWasKtD1smrNU)  
