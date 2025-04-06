@@ -442,3 +442,10 @@ This video discusses the essential concept of **Transparencies in a Distributed 
   - Location  
   - Local Mapping  
 
+# L127: Types of Distributed Databases | Data Storage (Fragmentation, Replication) | Transparency  
+
+[![L127: Types of Distributed Databases | Data Storage (Fragmentation, Replication) | Transparency](https://img.youtube.com/vi/9GtoDxCQGvk/maxresdefault.jpg)](https://youtu.be/9GtoDxCQGvk?si=ahIYVgXPP63vcucF)  
+
+### Topics Learned:  
+- **Types of Distributed Databases**   
+- **Comparison Between Homogeneous and Heterogeneous Distributed Databases**  
