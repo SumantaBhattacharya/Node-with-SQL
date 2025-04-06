@@ -382,6 +382,16 @@ A **Self Join** is a join in which a table is joined with itself (also called a 
 - **Various Uses of ALTER (Add, Modify, Drop Columns, etc.)**  
 - **Live Execution in Oracle SQL Environment**  
 
+# Lec-56: Difference between ALTER and UPDATE in SQL with Examples in Hindi | DBMS  
+
+[![Lec-56: Difference between ALTER and UPDATE in SQL with Examples in Hindi | DBMS](https://img.youtube.com/vi/x56CHpL4GBE/maxresdefault.jpg)](https://youtu.be/x56CHpL4GBE?si=gNqaESUM7RFwaLE4)  
+
+This lecture explains the **difference between ALTER and UPDATE commands in SQL**.
+
+### Topics Covered:  
+- **Introduction** to ALTER vs UPDATE  
+- **ALTER Command Explained**  
+- **UPDATE Command Explained**   
 
 # Distributed Database | Introduction | Distributed Systems | Lecture 64 | Bhanu Priya  
 
