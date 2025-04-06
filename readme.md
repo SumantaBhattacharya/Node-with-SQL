@@ -421,3 +421,24 @@ This lecture covers the **Architecture of Distributed Databases** as part of the
 ### Topics Covered:  
 - Introduction to Distributed Database Architecture  
 - Types of Distributed Database Architectures  
+
+# 6. Transparencies in Distributed Database System  
+
+[![Watch on YouTube](https://img.youtube.com/vi/gt1sr6P4Rmw/maxresdefault.jpg)](https://youtu.be/gt1sr6P4Rmw?si=4G9eT1J2cr-UqwLH)  
+
+This video discusses the essential concept of **Transparencies in a Distributed Database Management System (DDBMS)**.
+
+### Topics Covered:  
+- **Introduction to Transparencies in DDBMS**  
+- **Types of Transparencies**  
+  - Network Transparency  
+  - Location Transparency  
+  - Naming Transparency  
+  - Replication Transparency  
+  - Fragmentation Transparency  
+  - Local Mapping Transparency  
+- **Levels of Transparency**  
+  - Fragmentation  
+  - Location  
+  - Local Mapping  
+
