@@ -393,6 +393,10 @@ This lecture explains the **difference between ALTER and UPDATE commands in SQL*
 - **ALTER Command Explained**  
 - **UPDATE Command Explained**   
 
+# Lec-57: Difference between DELETE, DROP & TRUNCATE in SQL | DBMS  
+
+[![Lec-57: Difference between DELETE, DROP & TRUNCATE in SQL | DBMS](https://img.youtube.com/vi/_m1aJdD-oD8/maxresdefault.jpg)](https://youtu.be/_m1aJdD-oD8?si=rTC13O63Uo8yBxpe)  
+
 # Distributed Database | Introduction | Distributed Systems | Lecture 64 | Bhanu Priya  
 
 [![Watch on YouTube](https://img.youtube.com/vi/QyR4TIbEJjo/maxresdefault.jpg)](https://youtu.be/QyR4TIbEJjo?si=vqAUWasKtD1smrNU)  
