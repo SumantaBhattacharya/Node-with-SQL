@@ -414,6 +414,20 @@ This lecture covers various **constraints in SQL** in Hindi, ideal for DBMS begi
 - Foreign Key  
 - Default  
 
+# Lec-59: SQL Queries and Subqueries (Part-1) | Database Management System  
+
+[![Lec-59: SQL Queries and Subqueries (Part-1) | Database Management System](https://img.youtube.com/vi/_yog7h4BokQ/maxresdefault.jpg)](https://youtu.be/_yog7h4BokQ?si=hJshWhqd27YHIG0L)  
+
+[Lec-59: SQL Queries and Subqueries (Part-1) | Database Management System](https://youtu.be/_yog7h4BokQ?si=hJshWhqd27YHIG0L)
+
+This lecture introduces **SQL Queries and Subqueries (Part-1)** as part of the Database Management System series. Ideal for learners preparing for SQL interviews or strengthening query-building skills.
+
+### Topics Covered:  
+- Introduction  
+- Question 1  
+- Question 2  
+
+
 # Distributed Database | Introduction | Distributed Systems | Lecture 64 | Bhanu Priya  
 
 [![Watch on YouTube](https://img.youtube.com/vi/QyR4TIbEJjo/maxresdefault.jpg)](https://youtu.be/QyR4TIbEJjo?si=vqAUWasKtD1smrNU)  
