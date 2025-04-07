@@ -152,19 +152,21 @@ This video provides an overview of **What SQL is**, its **importance in tech**, 
 ### Topics Covered:  
 - What is SQL?  
 - Why learn SQL in 2025  
-- Future Career Scope in SQL and Data Management  
+- Future Career Scope in SQL and Data Management    
 
-# SQL - Complete Course in 3 Hours | SQL One Shot using MySQL  
+# DBMS: Characteristics of Database Management Systems  
 
-[![Watch on YouTube](https://img.youtube.com/vi/hlGoQC332VM/maxresdefault.jpg)](https://youtu.be/hlGoQC332VM?si=CEKxJPB2In6wseGs)  
+[![Watch on YouTube](https://img.youtube.com/vi/wClEbCyWryI/maxresdefault.jpg)](https://youtu.be/wClEbCyWryI?si=HzIvuXPxY7u263bM)  
 
-This is a **complete SQL course in just 3 hours**, perfect for beginners and intermediate learners. Taught using **MySQL**, the video provides a one-shot learning experience covering all major concepts.
+This lecture explains the **characteristics of the Database Management System (DBMS)**.
 
-### Highlights:  
-- Structured, fast-paced SQL learning  
-- Covers all essential commands and concepts  
-- Real-world examples using MySQL  
-- Ideal for interview prep or revision  
+### Topics Discussed:
+
+1. **Characteristics of the Database Approach:**
+   - Self-describing Nature of a Database System  
+   - Insulation between Programs and Data, and Data Abstraction  
+   - Support of Multiple Views of the Data  
+   - Sharing of Data and Multiuser Transaction Processing  
 
 
 # File System vs DBMS | Disadvantages of File System | DBMS Advantages  
