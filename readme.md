@@ -154,6 +154,19 @@ This video provides an overview of **What SQL is**, its **importance in tech**, 
 - Why learn SQL in 2025  
 - Future Career Scope in SQL and Data Management  
 
+# SQL - Complete Course in 3 Hours | SQL One Shot using MySQL  
+
+[![Watch on YouTube](https://img.youtube.com/vi/hlGoQC332VM/maxresdefault.jpg)](https://youtu.be/hlGoQC332VM?si=CEKxJPB2In6wseGs)  
+
+This is a **complete SQL course in just 3 hours**, perfect for beginners and intermediate learners. Taught using **MySQL**, the video provides a one-shot learning experience covering all major concepts.
+
+### Highlights:  
+- Structured, fast-paced SQL learning  
+- Covers all essential commands and concepts  
+- Real-world examples using MySQL  
+- Ideal for interview prep or revision  
+
+
 # File System vs DBMS | Disadvantages of File System | DBMS Advantages  
 
 
