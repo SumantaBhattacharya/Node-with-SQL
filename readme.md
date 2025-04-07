@@ -143,6 +143,17 @@ app.listen(port,()=>{// middlewere
 
 ```
 
+# What is SQL? Future Career Scope & Resources  
+
+[![Watch on YouTube](https://img.youtube.com/vi/UOJZTqA5Loc/maxresdefault.jpg)](https://youtu.be/UOJZTqA5Loc?si=1SqbAeizvVV1ARr8)  
+
+This video provides an overview of **What SQL is**, its **importance in tech**, and the **career opportunities** it opens up.
+
+### Topics Covered:  
+- What is SQL?  
+- Why learn SQL in 2025  
+- Future Career Scope in SQL and Data Management  
+
 # File System vs DBMS | Disadvantages of File System | DBMS Advantages  
 
 
