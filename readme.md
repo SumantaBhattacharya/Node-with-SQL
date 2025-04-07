@@ -16,7 +16,7 @@ const connection = mysql.createConnection({
   database: 'delta_app',
   password: 'JCMN@#8133'
 })
-// password: 'CJnm@#9501'
+
 let createRandomUser = () => {
   return [
     faker.datatype.uuid(),
@@ -167,6 +167,29 @@ This lecture explains the **characteristics of the Database Management System (D
    - Insulation between Programs and Data, and Data Abstraction  
    - Support of Multiple Views of the Data  
    - Sharing of Data and Multiuser Transaction Processing  
+
+# DBMS: Database Users  
+
+[![Watch on YouTube](https://img.youtube.com/vi/qoAL4MA3P08/maxresdefault.jpg)](https://youtu.be/qoAL4MA3P08?si=oKgZ7ef65V3xpGs2)  
+
+This video covers the **different types of users in a Database Management System (DBMS)**.
+
+### Topics Discussed:
+
+1. **Actors on the Scene**  
+   - Database Administrators  
+   - Database Designers  
+   - End Users  
+     - Casual  
+     - Naïve  
+     - Sophisticated  
+     - Stand-alone End Users  
+   - System Analysts & Application Programmers (Software Engineers)  
+
+2. **Workers Behind the Scene**  
+   - System Designers & Implementers  
+   - Tool Developers  
+   - Operators & Maintenance Personnel  
 
 
 # File System vs DBMS | Disadvantages of File System | DBMS Advantages  
