@@ -438,6 +438,16 @@ This lecture continues the topic of **SQL Queries and Subqueries**.
 - Question 1  
 - Question 2  
 
+# Lec-61: SQL Queries and Subqueries (Part-3) | Group By Clause | Database Management System  
+
+[![Lec-61: SQL Queries and Subqueries (Part-3) | Group By Clause | Database Management System](https://img.youtube.com/vi/apNmMWgFFRg/maxresdefault.jpg)](https://youtu.be/apNmMWgFFRg?si=dEtwPn_Y_CNUCzUZ)  
+
+[Lec-61: SQL Queries and Subqueries (Part-3) | Group By Clause | Database Management System](https://youtu.be/apNmMWgFFRg?si=dEtwPn_Y_CNUCzUZ)
+
+This lecture focuses on **SQL Queries and Subqueries (Part-3)** with emphasis on the **GROUP BY clause**, under the Database Management System series.
+
+### Topics Covered:  
+- Group By Clause  
 
 # Distributed Database | Introduction | Distributed Systems | Lecture 64 | Bhanu Priya  
 
