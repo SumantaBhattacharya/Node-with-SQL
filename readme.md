@@ -427,6 +427,17 @@ This lecture introduces **SQL Queries and Subqueries (Part-1)** as part of the D
 - Question 1  
 - Question 2  
 
+# Lec-60: SQL Queries and Subqueries (Part-2) | 2nd Highest Salary | Nested Queries | DBMS  
+
+[![Lec-60: SQL Queries and Subqueries (Part-2) | 2nd Highest Salary | Nested Queries | DBMS](https://img.youtube.com/vi/9lLpe_detTY/maxresdefault.jpg)](https://youtu.be/9lLpe_detTY?si=nYMsVoH3tevx_KO7)  
+
+This lecture continues the topic of **SQL Queries and Subqueries**.
+
+### Topics Covered:  
+- Introduction  
+- Question 1  
+- Question 2  
+
 
 # Distributed Database | Introduction | Distributed Systems | Lecture 64 | Bhanu Priya  
 
