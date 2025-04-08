@@ -206,6 +206,24 @@ This lecture covers the **fundamental concepts of database systems**, including 
 5. Representational or Implementation Data Model  
 6. Database Schema, Schema Diagram, Schema Construct, and Database State  
 
+# DBMS: Three-Schema Architecture & Data Independence
+
+[![Watch on YouTube](https://img.youtube.com/vi/vuXnRRG-m5M/maxresdefault.jpg)](https://youtu.be/vuXnRRG-m5M?si=Ax4dk68qvq4b4Scj)
+
+This lecture explains the **Three-Schema Architecture in DBMS**.
+
+### Topics Discussed:
+
+1. **Three-Schema Architecture**
+   - Internal Schema  
+   - Conceptual Schema  
+   - External Schema  
+
+2. **Data Independence**
+   - Logical Data Independence  
+   - Physical Data Independence  
+
+
 # File System vs DBMS | Disadvantages of File System | DBMS Advantages  
 
 
