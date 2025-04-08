@@ -268,6 +268,26 @@ A database schema defines how data is organized within a relational database. Th
 
 [![Foreign Key in DBMS | Full Concept with Examples](https://img.youtube.com/vi/UyqpQ3D2yCw/maxresdefault.jpg)](https://youtu.be/UyqpQ3D2yCw)
 
+# DBMS: Entity-Relationship (ER) Model
+
+[![Watch on YouTube](https://img.youtube.com/vi/wOD02sezmX8/maxresdefault.jpg)](https://youtu.be/wOD02sezmX8?si=RknV8Qye0fOtHIcg)
+
+This lecture introduces the **Entity-Relationship (ER) Model** used in DBMS to visually describe data and their relationships.
+
+### Topics Discussed:
+
+1. **Terminologies in relation to the ER Model:**
+   - Entity  
+   - Attributes:  
+     • Composite vs Simple Attributes  
+     • Single-valued vs Multivalued Attributes  
+     • Derived vs Stored Attributes  
+   - Complex Attributes  
+   - Null values  
+   - Entity Type, Entity Set  
+   - Key Attribute & Value Set of Attributes  
+
+
 # Introduction to ER Model | ER Model क्या है  
 
 [![Introduction to ER Model | ER Model क्या है](https://img.youtube.com/vi/gbVev8RuZLg/maxresdefault.jpg)](https://youtu.be/gbVev8RuZLg)
