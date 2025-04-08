@@ -191,6 +191,20 @@ This video covers the **different types of users in a Database Management System
    - Tool Developers  
    - Operators & Maintenance Personnel  
 
+# DBMS: Fundamentals of Database Systems  
+
+[![Watch on YouTube](https://img.youtube.com/vi/qMAxQh6Xilo/maxresdefault.jpg)](https://youtu.be/qMAxQh6Xilo?si=C98FQNsUtYRh9a4X)  
+
+This lecture covers the **fundamental concepts of database systems**, including various types of data models and the structural components of a database.
+
+### Topics Discussed:
+
+1. Data Models  
+2. Categories of Data Models  
+3. High-Level or Conceptual Data Model  
+4. Low-Level or Physical Data Model  
+5. Representational or Implementation Data Model  
+6. Database Schema, Schema Diagram, Schema Construct, and Database State  
 
 # File System vs DBMS | Disadvantages of File System | DBMS Advantages  
 
