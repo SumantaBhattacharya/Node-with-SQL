@@ -274,6 +274,31 @@ A database schema defines how data is organized within a relational database. Th
 
 This lecture introduces the **Entity-Relationship (ER) Model** used in DBMS to visually describe data and their relationships.
 
+# DBMS: Concept of Relationships in ER Diagram
+
+[![Watch on YouTube](https://img.youtube.com/vi/n3mHfQft5P8/maxresdefault.jpg)](https://youtu.be/n3mHfQft5P8?si=ZP0p6hEpMLJsYh2w)
+
+This lecture explores the **Concept of Relationships** in an ER diagram.
+
+### Topics Discussed:
+
+1. **Definition of Relationship** & example  
+2. **Degree of Relationship**  
+   - Unary relationship  
+   - Binary relationship  
+   - Ternary relationship  
+3. **Relationship Constraints**  
+   - Cardinality Ratio (one to one, one to many, many to one & many to many)  
+   - Participation Constraints (Total & partial participation)  
+4. **ER Diagram for COMPANY database**  
+5. **Attributes of Relationship Types**  
+6. **Role Names & Recursive Relationships**  
+7. **Alternative Notations for ER Diagrams**  
+8. **Enhanced ER (EER) Model**  
+   - Generalization  
+   - Specialization  
+
+
 ### Topics Discussed:
 
 1. **Terminologies in relation to the ER Model:**
