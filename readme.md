@@ -610,6 +610,20 @@ This video covers the important **characteristics of relations** in the relation
    - Values & Nulls in the Tuples  
    - Interpretation (or Meaning) of a Relation  
 
+# DBMS: Relational Model Constraints
+
+[![Watch on YouTube](https://img.youtube.com/vi/uPOGPL2C0_8/maxresdefault.jpg)](https://youtu.be/uPOGPL2C0_8?si=wJz3cpLw9NLTD9kr)
+
+This video covers various **constraints in the relational model**.
+
+### Topics Discussed:
+
+1. **Schema Based Constraints:**
+   - Domain Constraints  
+   - Key Constraints  
+   - Constraints on Null Values  
+   - Entity Integrity Constraints  
+   - Referential Integrity Constraints  
 
 # Distributed Database | Introduction | Distributed Systems | Lecture 64 | Bhanu Priya  
 
