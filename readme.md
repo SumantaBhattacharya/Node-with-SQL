@@ -575,6 +575,28 @@ This lecture focuses on **SQL Queries and Subqueries (Part-3)** with emphasis on
 ### Topics Covered:  
 - Group By Clause  
 
+# DBMS: Introduction to Relational Data Model
+
+[![Watch on YouTube](https://img.youtube.com/vi/Q45sr5p_NmQ/maxresdefault.jpg)](https://youtu.be/Q45sr5p_NmQ?si=BEJca-FRJzfBLZza)
+
+This video introduces the **Relational Data Model**, a foundational concept in relational databases.
+
+### Topics Discussed:
+
+1. **History of Relational Data Model**
+
+2. **Terminologies**  
+   a. Relation  
+   b. Tuple  
+   c. Attributes  
+   d. Domain  
+   e. Relation Schema  
+   f. Degree (or arity) of a relation  
+   g. Cardinality  
+   h. Relational Database Schema  
+   i. Relational Database State (or Relation Instance)  
+
+
 # Distributed Database | Introduction | Distributed Systems | Lecture 64 | Bhanu Priya  
 
 [![Watch on YouTube](https://img.youtube.com/vi/QyR4TIbEJjo/maxresdefault.jpg)](https://youtu.be/QyR4TIbEJjo?si=vqAUWasKtD1smrNU)  
