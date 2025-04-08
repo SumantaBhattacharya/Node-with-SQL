@@ -596,6 +596,20 @@ This video introduces the **Relational Data Model**, a foundational concept in r
    h. Relational Database Schema  
    i. Relational Database State (or Relation Instance)  
 
+# DBMS: Characteristics of Relations
+
+[![Watch on YouTube](https://img.youtube.com/vi/J4hZbuTLyhI/maxresdefault.jpg)](https://youtu.be/J4hZbuTLyhI?si=z4XBJV-ko12kv6OO)
+
+This video covers the important **characteristics of relations** in the relational database model.
+
+### Topics Discussed:
+
+1. **Characteristics of Relations:**
+   - Ordering of Tuples in a Relation  
+   - Ordering of Values within a Tuple  
+   - Values & Nulls in the Tuples  
+   - Interpretation (or Meaning) of a Relation  
+
 
 # Distributed Database | Introduction | Distributed Systems | Lecture 64 | Bhanu Priya  
 
