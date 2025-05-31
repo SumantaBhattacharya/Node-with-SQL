@@ -691,3 +691,8 @@ This video discusses the essential concept of **Transparencies in a Distributed 
 ### Topics Learned:  
 - **Types of Distributed Databases**   
 - **Comparison Between Homogeneous and Heterogeneous Distributed Databases**  
+
+# ***Architectural Models : Client Server and Peer-to-Peer Explained in Hindi Distributed Systems***
+
+[![Architectural Models : Client Server and Peer-to-Peer Explained in Hindi Distributed Systems](https://img.youtube.com/vi/10bXft8qa38/0.jpg)](https://youtu.be/10bXft8qa38?si=XKsLX8DaBjzMgd-8)
+
