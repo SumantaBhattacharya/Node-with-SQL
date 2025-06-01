@@ -696,3 +696,6 @@ This video discusses the essential concept of **Transparencies in a Distributed 
 
 [![Architectural Models : Client Server and Peer-to-Peer Explained in Hindi Distributed Systems](https://img.youtube.com/vi/10bXft8qa38/0.jpg)](https://youtu.be/10bXft8qa38?si=XKsLX8DaBjzMgd-8)
 
+# ***DBMS STANDARDISATION***
+
+[![DDBMS For sem6 students](https://img.youtube.com/vi/fPNcEDa37QI/0.jpg)](https://youtu.be/fPNcEDa37QI?si=7YnHB53h-gaLHzqM)
