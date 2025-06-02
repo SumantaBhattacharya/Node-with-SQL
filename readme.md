@@ -699,3 +699,10 @@ This video discusses the essential concept of **Transparencies in a Distributed 
 # ***DBMS STANDARDISATION***
 
 [![DDBMS For sem6 students](https://img.youtube.com/vi/fPNcEDa37QI/0.jpg)](https://youtu.be/fPNcEDa37QI?si=7YnHB53h-gaLHzqM)
+
+# ***🐌 🐞10. DATA ALLOCATION MODEL🐌 🐞***
+
+[![🐌 🐞10. DATA ALLOCATION MODEL🐌 🐞](https://img.youtube.com/vi/84yEQokh0xQ/0.jpg)](https://youtu.be/84yEQokh0xQ?si=XUVPV-N3Z6qq1uaI)
+
+> Data Allocation, Different strategies, Factors affecting Data Allocation, ALLOCATION MODEL, Allocation – Information Requirements
+
