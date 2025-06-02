@@ -713,3 +713,7 @@ This video discusses the essential concept of **Transparencies in a Distributed 
 # ***Difference Between Centralized DBMS And Distributed DBMS?-Class Series***
 
 [![Difference Between Centralized DBMS And Distributed DBMS?-Class Series](https://img.youtube.com/vi/JPH9jhOy3Cg/0.jpg)](https://youtu.be/JPH9jhOy3Cg?si=4QOpEoOJEluNc8cN)
+
+# ***Architectural Model | Peer to Peer Model | Distributed Systems | Lec-09 | Bhanu Priya***
+
+[![Architectural Model | Peer to Peer Model | Distributed Systems | Lec-09 | Bhanu Priya](https://img.youtube.com/vi/-raiKzCpAjI/0.jpg)](https://youtu.be/-raiKzCpAjI?si=Tpz5AtRQaq03JUS7) 
