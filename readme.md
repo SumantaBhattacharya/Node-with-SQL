@@ -710,3 +710,6 @@ This video discusses the essential concept of **Transparencies in a Distributed 
 
 [![Lec-112: View in Database | Oracle, SQL Server Views | Types of Views](https://img.youtube.com/vi/QngqhdLd1SE/0.jpg)](https://youtu.be/QngqhdLd1SE?si=RBJ-BsUbp6v_9kT3)
 
+# ***Difference Between Centralized DBMS And Distributed DBMS?-Class Series***
+
+[![Difference Between Centralized DBMS And Distributed DBMS?-Class Series](https://img.youtube.com/vi/JPH9jhOy3Cg/0.jpg)](https://youtu.be/JPH9jhOy3Cg?si=4QOpEoOJEluNc8cN)
