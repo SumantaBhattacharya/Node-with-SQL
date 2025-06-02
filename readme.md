@@ -706,3 +706,7 @@ This video discusses the essential concept of **Transparencies in a Distributed 
 
 > Data Allocation, Different strategies, Factors affecting Data Allocation, ALLOCATION MODEL, Allocation – Information Requirements
 
+# ***Lec-112: View in Database | Oracle, SQL Server Views | Types of Views***
+
+[![Lec-112: View in Database | Oracle, SQL Server Views | Types of Views](https://img.youtube.com/vi/QngqhdLd1SE/0.jpg)](https://youtu.be/QngqhdLd1SE?si=RBJ-BsUbp6v_9kT3)
+
