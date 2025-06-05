@@ -721,3 +721,7 @@ This video discusses the essential concept of **Transparencies in a Distributed 
 # ***DBMS 41 : Parallel Database Architecture with Examples***
 
 [![DBMS 41 : Parallel Database Architecture with Examples](https://img.youtube.com/vi/I_8P67Mda0Y/0.jpg)](https://youtu.be/I_8P67Mda0Y?si=wupOfVYCCGJTVrMI)
+
+# ***3_3 Autonomy***
+
+[![3_3 Autonomy](https://img.youtube.com/vi/zp_YakRYBS0/0.jpg)](https://youtu.be/zp_YakRYBS0?si=7-hj35a1LBJyGyrY)
