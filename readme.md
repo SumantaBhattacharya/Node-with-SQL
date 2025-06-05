@@ -717,3 +717,7 @@ This video discusses the essential concept of **Transparencies in a Distributed 
 # ***Architectural Model | Peer to Peer Model | Distributed Systems | Lec-09 | Bhanu Priya***
 
 [![Architectural Model | Peer to Peer Model | Distributed Systems | Lec-09 | Bhanu Priya](https://img.youtube.com/vi/-raiKzCpAjI/0.jpg)](https://youtu.be/-raiKzCpAjI?si=Tpz5AtRQaq03JUS7) 
+
+# ***DBMS 41 : Parallel Database Architecture with Examples***
+
+[![DBMS 41 : Parallel Database Architecture with Examples](https://img.youtube.com/vi/I_8P67Mda0Y/0.jpg)](https://youtu.be/I_8P67Mda0Y?si=wupOfVYCCGJTVrMI)
