@@ -725,3 +725,7 @@ This video discusses the essential concept of **Transparencies in a Distributed 
 # ***3_3 Autonomy***
 
 [![3_3 Autonomy](https://img.youtube.com/vi/zp_YakRYBS0/0.jpg)](https://youtu.be/zp_YakRYBS0?si=7-hj35a1LBJyGyrY)
+
+# ***Type of Databases in DBMS (Database Management System) Tutorial | Lec -04 Hindi***
+
+[![Type of Databases in DBMS (Database Management System) Tutorial | Lec -04 Hindi](https://img.youtube.com/vi/cLhzbmhNiEQ/0.jpg)](https://youtu.be/cLhzbmhNiEQ?si=MYKFv53Cep9KWWe6)
